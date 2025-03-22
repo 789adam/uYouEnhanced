@@ -16,8 +16,8 @@ on:
         default: "3.0.4"
         required: true
         type: string
-      decrypted_youtube_url: "https://drive.google.com/file/d/1e519COi-IxXIX5eYaCw08fsVcvY_iBhc/view?usp=drive_link"
-        description: "Direct URL of the decrypted YouTube IPA"
+      decrypted_youtube_url: 
+        description: "https://drive.google.com/file/d/1e519COi-IxXIX5eYaCw08fsVcvY_iBhc/view?usp=drive_link"
         default: ""
         required: true
         type: string
