@@ -17,7 +17,7 @@ on:
         required: true
         type: string
       decrypted_youtube_url: 
-        description: "https://drive.google.com/file/d/1e519COi-IxXIX5eYaCw08fsVcvY_iBhc/view?usp=drive_link"
+        description: "https://litter.catbox.moe/cqmtqg.ipa"
         default: ""
         required: true
         type: string
